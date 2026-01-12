@@ -145,8 +145,9 @@ This project successfully converts raw Blinkit sales data into an interactive bu
 ---
 
 ## 👤 Author & Contact
-*Name:** Rehman Khan  
+- **Name:** Rehman Khan k
 - **Degree:** Master of Computer Applications (MCA)  
-- **Role:** Aspiring Data Analyst  
+- **Role:** Aspiring Data Analyst | Bussiness Analyst 
 - **Email:** rehman020219@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rehman-khan1919
+
